@@ -10,7 +10,7 @@ Then whenever you use “print”, you use: print(‘something’, end=‘’)
 
 1. Write a Python program that prints each item and its corresponding type from
 the following list. (10 mins)
-Sample List: datalist = [1452, 11.23, 1+2j, True, 'University of Maryland', (0, -1),[5, 12], {"class":'404', "section":'A'}]
+Sample List: datalist = [1452, 11.23, 1+2j, True, 'University of Maryland', (0, -1),[5, 12],{"class":'404', "section":'A'}]
 
 ```
 datalist =  [1452, 11.23, 1+2j, True, 'University of Maryland', (0, -1),[5, 12], {"class":'404', "section":'A'}]
@@ -58,6 +58,7 @@ print("Bye...")
 
 3. Write a Python program to construct the following pattern, using a nested
 loop. The longest line (n) is from user input (e.g., n=5 for the following pattern).
+
 (45 mins)
 *
 * *
