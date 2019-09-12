@@ -58,7 +58,6 @@ print("Bye...")
 
 3. Write a Python program to construct the following pattern, using a nested
 loop. The longest line (n) is from user input (e.g., n=5 for the following pattern).
-
 (45 mins)
 *
 * *
